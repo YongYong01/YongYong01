@@ -21,7 +21,7 @@
 
 ### About
 
-- studying computer science @ eth zürich  
+- studying CSE @ ETH zürich  
 - interested in algorithms, systems & ai  
 - currently building + learning  
 - i like clean code & efficient solutions  
