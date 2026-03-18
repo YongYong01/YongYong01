@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YongYong01/YongYong01/main/banner.jpg" />
+</p>
+
 <h1 align="center">Hey, I'm Kevin Frunz</h1>
 
 <p align="center">
