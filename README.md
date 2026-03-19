@@ -14,7 +14,7 @@
 ### Languages and Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,powershell,windows,linux,git,github,gitlab" />
 </p>
 
 ---
