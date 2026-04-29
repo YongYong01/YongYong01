@@ -22,9 +22,9 @@
 ### About
 
 - studying CSE @ ETH zürich  
-- interested in algorithms, systems & ai  
+- interested in algorithms, systems and ai  
 - currently building + learning  
-- i like clean code & efficient solutions  
+- i like clean code and efficient solutions  
 
 ---
 
